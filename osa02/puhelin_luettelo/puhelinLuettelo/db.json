@@ -16,16 +16,6 @@
       "id": "NmqUMW8T3V4"
     },
     {
-      "name": "Hopeful, yes I am hopeful today",
-      "number": "999",
-      "id": "Wqz1EMAJ4Jc"
-    },
-    {
-      "name": "fdaf",
-      "number": "44",
-      "id": "6FMqYMnA2jM"
-    },
-    {
       "name": "Tauri Maanantai",
       "number": "923140710843",
       "id": "HJjPH8B-CA0"
@@ -39,6 +29,11 @@
       "name": "Jay Z",
       "number": "(305) 930-4059",
       "id": "HKmKSr3L8rU"
+    },
+    {
+      "name": "Alicia Keys",
+      "number": "(306) 390-0488",
+      "id": "fW8bgxKIygM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
